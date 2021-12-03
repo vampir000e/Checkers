@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1556698755 source:c:\users\alx\documents\计算机博弈\checkers\main.cpp
+	"checkers.h"
+
+1557151115 c:\users\alx\documents\计算机博弈\checkers\checkers.h
+	<iostream>
+	<winbgim.h>
+	<vector>
+	<list>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1266058214 d:\codeblocks-epwin7special\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1560735244 source:c:\users\alx\documents\计算机博弈\checkers\checkersplay.cpp
+	"checkers.h"
+
+1556698755 source:c:\users\alx\desktop\19博弈\checkers\checkers\main.cpp
+	"checkers.h"
+
+1557151115 c:\users\alx\desktop\19博弈\checkers\checkers\checkers.h
+	<iostream>
+	<winbgim.h>
+	<vector>
+	<list>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1561127679 source:c:\users\alx\desktop\19博弈\checkers\checkers\checkersplay.cpp
+	"checkers.h"
+
+1556698755 source:c:\users\alx\desktop\省赛checkers\checkers\main.cpp
+	"checkers.h"
+
+1557151115 c:\users\alx\desktop\省赛checkers\checkers\checkers.h
+	<iostream>
+	<winbgim.h>
+	<vector>
+	<list>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1561127679 source:c:\users\alx\desktop\省赛checkers\checkers\checkersplay.cpp
+	"checkers.h"
+
+1561128663 source:c:\users\alx\desktop\checkers\checkers\checkersplay.cpp
+	"checkers.h"
+
+1557151115 c:\users\alx\desktop\checkers\checkers\checkers.h
+	<iostream>
+	<winbgim.h>
+	<vector>
+	<list>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1556698755 source:c:\users\alx\desktop\checkers\checkers\main.cpp
+	"checkers.h"
+
+1561128663 source:d:\code files\checkers\checkers\checkersplay.cpp
+	"checkers.h"
+
+1557151115 d:\code files\checkers\checkers\checkers.h
+	<iostream>
+	<winbgim.h>
+	<vector>
+	<list>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+	<algorithm>
+	<stdlib.h>
+	<fstream>
+	<vector>
+
+1556698755 source:d:\code files\checkers\checkers\main.cpp
+	"checkers.h"
+
