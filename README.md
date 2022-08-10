@@ -5,4 +5,4 @@ Checkers man-machine game program
 ---
 
 
-![Image text](https://raw.github.com/vampir000e/my-img/blob/main/Blog/1.png)
+![Image text](https://github.com/vampir000e/my-img/blob/main/Blog/1.png)
